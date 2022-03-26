@@ -1,0 +1,1 @@
+-w -s "e:\Anul 1-sem 2\PSN\proiect_lift\library.cfg"  -j "e:\Anul 1-sem 2\PSN\proiect_lift\lift\projlib.cfg"  -d "e:\Anul 1-sem 2\PSN\proiect_lift\lift\compile\"  -work lift -dbg -e 100 "e:\Anul 1-sem 2\PSN\proiect_lift\lift\src\unitate_de_executie.vhd" 

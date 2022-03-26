@@ -1,0 +1,15 @@
+.\src\automat_lift.vhd
+.\src\afisor_7_segmente.vhd
+.\src\numarator_parcurgere_memorie.vhd
+.\src\numarator_5_secunde.vhd
+.\src\buton.vhd
+.\src\memorie_ram.vhd
+.\src\numarator_reversibil_etaje.vhd
+.\src\unitate_de_executie.vhd
+.\src\organigrama.vhd
+.\src\bistabil_dmux.vhd
+.\src\divizor_de_frecventa.vhd
+.\src\mux_4_1_calea_4_biti.vhd
+.\src\comparator_4_biti.vhd
+.\src\divizor_3_sec.vhd
+.\src\Buffer.vhd

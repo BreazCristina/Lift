@@ -1,0 +1,5 @@
+MESSAGE "File: e:\Anul 1-sem 2\PSN\proiect_lift\lift\src\unitate_de_executie.vhd" 
+MESSAGE "Compile Entity "UNITATE_DE_EXECUTIE"" 
+MESSAGE "Entity `UNITATE_DE_EXECUTIE' has been skipped - no difference detected." 
+MESSAGE "Compile Architecture "ARH_STRUCTURALA" of Entity "UNITATE_DE_EXECUTIE"" 
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time :  0.1 [s]" 
